@@ -1,0 +1,17 @@
+﻿using online_CS_N15.Abstraction.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace online_CS_N15.Implementation.Models
+{
+    public class User : IUser
+    {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public double Money { get; set; }
+        public List<IProduct> Products { get; set; } = new List<IProduct>();
+    }
+}

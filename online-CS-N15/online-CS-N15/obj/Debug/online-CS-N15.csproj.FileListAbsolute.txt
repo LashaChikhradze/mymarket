@@ -1,0 +1,7 @@
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\bin\Debug\online-CS-N15.exe.config
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\bin\Debug\online-CS-N15.exe
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\bin\Debug\online-CS-N15.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\obj\Debug\online-CS-N15.csprojAssemblyReference.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\obj\Debug\online-CS-N15.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\obj\Debug\online-CS-N15.exe
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\online-CS-N15\online-CS-N15\obj\Debug\online-CS-N15.pdb
